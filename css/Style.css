@@ -18,4 +18,10 @@ header
     line-height: 2em;
 }
 
+/* Navbar */
+#navbar
+{
+    background-color:#5b0001;
+}
+
 /* special css */
