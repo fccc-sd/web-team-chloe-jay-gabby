@@ -24,4 +24,52 @@ header
     background-color:#5b0001;
 }
 
-/* special css */
+/* Special css */
+
+/* Main Page css */
+
+/* Images */
+
+
+/* Tour Dates */
+
+#HomePageTourDate1
+{
+    background-color:#5b0001;
+    color:#d64612;
+    margin-top: 20px;
+}
+
+#HomePageTourDate2
+{
+    background-color:#5b0001;
+    color:#d64612;
+    margin-top: 8px;
+}
+
+#HomePageTourDate3
+{
+    background-color:#5b0001;
+    color:#d64612;
+    margin-top: 8px;
+}
+
+
+/* Footer */
+
+footer
+{
+    color:#d64612;
+    text-align: center;
+}
+
+h1
+{
+    margin-bottom: 20px;
+}
+
+.socialmedia
+{
+    margin:20px;
+}
+
