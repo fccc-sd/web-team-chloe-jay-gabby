@@ -16,6 +16,18 @@ header
     text-align: center;
     font-size: 4em;
     line-height: 2em;
+    font-family: "Bloody Font";
+}
+
+/* Font */
+@font-face {
+    font-family: "Arnod";
+    src: url("css/Arnod.otf");
+}
+
+@font-face {
+    font-family: "Bloody Font";
+    src: url("css/BloodttypepersonaluseBold-OVe6e.otf");
 }
 
 /* Navbar */
@@ -24,7 +36,6 @@ header
     background-color:#5b0001;
 }
 
-/* Special css */
 
 /* Main Page css */
 
@@ -33,27 +44,22 @@ header
 
 /* Tour Dates */
 
-#HomePageTourDate1
-{
-    background-color:#5b0001;
-    color:#d64612;
-    margin-top: 20px;
-}
-
-#HomePageTourDate2
+#TourDate1
 {
     background-color:#5b0001;
     color:#d64612;
     margin-top: 8px;
+    margin-left:8px;
+    padding:8px;
+    border-style: solid;
+    border-width:3px;
+    border-color:black
 }
 
-#HomePageTourDate3
+#AllTourDates
 {
-    background-color:#5b0001;
-    color:#d64612;
-    margin-top: 8px;
+    background-color:#5b0001
 }
-
 
 /* Footer */
 
@@ -71,5 +77,10 @@ h1
 .socialmedia
 {
     margin:20px;
+}
+
+h6
+{
+    color:#d64612
 }
 
